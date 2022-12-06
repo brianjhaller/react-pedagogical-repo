@@ -24,7 +24,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "webpack": "^4.41.0"
